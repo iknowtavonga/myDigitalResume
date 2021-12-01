@@ -70,6 +70,14 @@ line-height: 3em;
   line-height: 1.8em;
 }
 
+
+.footerLink{
+  font-size: 2em;
+  text-decoration: none;
+  color: #403d39;
+  margin: 0.8em;
+}
+
 footer {
   background-color: #CCE3DE;
   text-align: center;
